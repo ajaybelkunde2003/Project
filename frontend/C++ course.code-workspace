@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"name": "C++ course",
+			"path": "../../../../../C++ course"
+		},
+		{
+			"name": "C",
+			"path": "../../../../../C"
+		},
+		{
+			"name": "Python",
+			"path": "../../../../../Python"
+		},
+		{
+			"name": "Sigma Web Development",
+			"path": "../../../../../Sigma Web Development"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Sigma Web Development"
+	}
+}
